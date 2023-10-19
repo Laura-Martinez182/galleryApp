@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "407266072786",
+    "firebase_url": "https://apuntes-48a72-default-rtdb.firebaseio.com",
+    "project_id": "apuntes-48a72",
+    "storage_bucket": "apuntes-48a72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407266072786:android:451a44cdf307afda6ff50b",
+        "android_client_info": {
+          "package_name": "icesi.edu.co.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEFd7hxwEAnOvtlBGwiQphj2_uVhi_f1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407266072786:android:09c61979dc4b2fd16ff50b",
+        "android_client_info": {
+          "package_name": "icesi.edu.co.firebaseclase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEFd7hxwEAnOvtlBGwiQphj2_uVhi_f1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407266072786:android:501dfe80c438622c6ff50b",
+        "android_client_info": {
+          "package_name": "icesi.edu.co.firebaseejemplokotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEFd7hxwEAnOvtlBGwiQphj2_uVhi_f1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407266072786:android:c090fc6d1010a46c6ff50b",
+        "android_client_info": {
+          "package_name": "icesi.edu.co.galleryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEFd7hxwEAnOvtlBGwiQphj2_uVhi_f1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
